@@ -2,7 +2,7 @@
 
 # Editor Seçimi
 
-Javascript kodunu yazmaq üçün sizə kod redaktoru yəni code editor lazımdır. Müxtəlif növ code editor-lar var
+JavaScript kodunu yazmaq üçün sizə kod redaktoru yəni Code Editor lazımdır. Müxtəlif növ Code Editor-lar var
 
 - Visual Studio Code və ya VSCode 
 - Sublime text 
